@@ -39,17 +39,17 @@ Password-Generator/
 
 📥 Clone the Repository:
 ```bash
-git clone https://github.com/Anika-Srivastava/<your-repo-name>.git
+git clone https://github.com/Anika-Srivastava/Password-Generator.git
 ```
 
 📂 Navigate to the Project Folder:
 ```bash
-cd <your-repo-name>
+cd Password-Generator
 ```
 
 ▶️ Run the Program:
 ```bash
-python <your-repo-name>.py
+python Password-Generator.py
 ```
 
 ## ⚙️ How It Works
